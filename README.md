@@ -1,8 +1,9 @@
-# React + Vite
+The project can be run by cloning this github repo and then run the command :-
+npm install
+after this command run :-
+npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This will open the project in your localhost environment
+All the sort and Filter functionalities are implemented .
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+NOTE- Test the project for Mumbai to Kolkata flights. 
